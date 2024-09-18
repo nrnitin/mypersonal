@@ -12,3 +12,7 @@ Up above the world so high.
 Like a diamond in the sky.
 Twinkle twinkle little star.
 How I wonder what you are.""")
+# Table of 5
+a=1
+b=1
+print (a+b)
